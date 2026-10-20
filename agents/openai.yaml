@@ -1,0 +1,4 @@
+interface:
+  display_name: "颗粒连点画生成器"
+  short_description: "上传物品图片，生成五色随机的颗粒连点轮廓透明 PNG"
+  default_prompt: "请用 $dot-outline-generator 把这张物品图转换成颗粒连点画透明 PNG。"
