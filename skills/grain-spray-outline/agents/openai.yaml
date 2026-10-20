@@ -1,0 +1,4 @@
+interface:
+  display_name: "颗粒喷绘轮廓"
+  short_description: "将物品转成手绘外边、向内颗粒喷绘的镂空轮廓，支持黑灰与五色换色"
+  default_prompt: "使用 $grain-spray-outline 将这张图片转换为已确认的颗粒喷绘镂空轮廓风格，随机选一个主色，并交付透明 PNG。"
